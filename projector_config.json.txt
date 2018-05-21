@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Medical Code Embedding",
+      "tensorShape": [
+        30000,
+        100
+      ],
+      "tensorPath": "https://github.com/neillbyrne/emb/blob/master/embedding_vals_for_viz_100dim_shortened.txt",
+      "metadataPath": "https://github.com/neillbyrne/emb/blob/master/descriptions_for_viz_shortened.txt"
+    }
+  ]
+}
